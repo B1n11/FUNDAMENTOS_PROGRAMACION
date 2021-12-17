@@ -1,3 +1,5 @@
+//A2.- Diagrama de Flujo y Código en C++ de proglemas tipo examen
+//Edgar Hormaza
 #include <iostream>
 using namespace std;
 int main()
