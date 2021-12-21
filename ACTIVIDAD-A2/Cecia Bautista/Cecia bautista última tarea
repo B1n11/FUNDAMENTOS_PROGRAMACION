@@ -15,7 +15,7 @@ si (x> 0 ) {
 } más {
 	g = g + x;
 }
-} mientras (c <li);
+{mientras (c <li);
 cout << " El saldo de egresos es: " << g << endl;
 cout << " El saldo de ingresos es: " << i << endl;
 cout << " El saldo total es: " << a << endl;
